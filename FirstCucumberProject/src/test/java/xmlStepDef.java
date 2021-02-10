@@ -3,7 +3,7 @@ public class xmlStepDef {
   
   public void test1(){
     
-    System.out.printn("Success");
+    System.out.println("Success");
   }
 
 }
